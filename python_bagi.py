@@ -8,4 +8,4 @@ def Bagi763():
   else:
     print("idk bagi is strange")
 
-print("just read README.md file" + Bagi763)
+print("just read README.md file" + Bagi763())

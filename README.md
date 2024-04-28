@@ -1,6 +1,6 @@
 Hello Everyone, My Name is Bagi
 
-Creator of Some Discord Bots (Using Scratch for Discord) and Servers (Scratch Brasil for Example)
+Creator of Some Discord Bots (Using Scratch for Discord) and Servers (Scratch Brasil for Example) and Be!!(https://github.com/be-rep)
 
 The Languages That I Currently Know is: Scratch, Scratch for Discord, Python
 

@@ -15,5 +15,5 @@ See Ya!
 * [Be](https://github.com/be-rep)
 
 ## Github Stats
-![Bagi763's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagi763&show_icons=true&theme=dark)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagi763&layout=compact&theme=dak)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bagi763&show_icons=true&theme=dark)\
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagi763&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)

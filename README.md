@@ -13,3 +13,7 @@ See Ya!
 * [Scratch Account](https://scratch.mit.edu/users/Rafael_Bagi123)
 * [Itch.io](https://bagi763.itch.io)
 * [Be](https://github.com/be-rep)
+
+## Github Stats
+![Bagi763's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagi763&show_icons=true&theme=dark)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagi763&layout=compact&theme=dak)

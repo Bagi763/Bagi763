@@ -1,8 +1,8 @@
 Hello Everyone, My Name is Bagi
 
-Creator of Some Discord Bots (Using Scratch for Discord) and Servers (Scratch Brasil for Example) and Be!!(https://github.com/be-rep)
+Creator of Some Discord Bots (Using (Scratch for Discord)[https://s4d.discodes.xyz]) and Servers (Scratch Brasil for Example) and (Be)[https://github.com/be-rep]
 
-The Languages That I Currently Know is: Scratch, Scratch for Discord, Python
+The Languages That I Currently Know is: (Scratch)[https://scratch.mit.edu/users/Rafael_Bagi123], (Scratch for Discord)[https://s4d.discodes.xyz], Python
 
 The Languages That I Curently Learning: HMTL5
 

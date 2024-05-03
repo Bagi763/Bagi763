@@ -8,6 +8,7 @@ The Languagues That I Want to Learn; CSS, Javascript, Lua
 See Ya!
 
 ## Other Links:
+* [Discord](https://discord.com/users/851535306548969533)
 * [Youtube Channel](https://youtube.com/@thebagi)
 * [Instagram](https://instagram.com/dev_bagi763)
 * [Scratch Account](https://scratch.mit.edu/users/Rafael_Bagi123)

@@ -1,5 +1,5 @@
 # Hello Everyone, My Name is Bagi
-Creator of Some Discord Bots and Be
+Creator of Some Discord Bots and Other Stuff
 
 The Languages That I Currently Know is: Scratch, Python\
 The Languages That I Curently Learning: HMTL5\
@@ -13,7 +13,7 @@ See Ya!
 * [Instagram](https://instagram.com/dev_bagi763)
 * [Scratch Account](https://scratch.mit.edu/users/Rafael_Bagi123)
 * [Itch.io](https://bagi763.itch.io)
-* [Be](https://github.com/be-rep)
+* [Linktr.ee](https://linktr.ee/bagi763)
 
 ## Github Stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=bagi763&show_icons=true&theme=dark)](https://github.com/bagi763)\

@@ -2,8 +2,8 @@
 Creator of Some Discord Bots and Other Stuff
 
 The Languages That I Currently Know is: Scratch, Python\
-The Languages That I Curently Learning: HMTL5\
-The Languagues That I Want to Learn; CSS, Javascript, Lua
+The Languages That I Curently Learning: HMTL/CSS\
+The Languagues That I Want to Learn: Javascript, Lua
 
 See Ya!
 

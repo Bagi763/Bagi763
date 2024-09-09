@@ -1,10 +1,9 @@
 # Hello Everyone, My Name is Bagi
 Creator of Some Discord Bots and Other Stuff
 
-The Languages That I Currently Know is: Scratch, Python\
-The Languages That I Curently Learning: HMTL/CSS\
-The Languagues That I Want to Learn: Javascript, Lua
-
+The Languages That I Currently Know is: Scratch, Python, Lua, HMTL/CSS, Go\
+The Languages That I Curently Learning: None\
+The Languagues That I Want to Learn: Javascript, C, C#, Java, Rust
 See Ya!
 
 ## Other Links:

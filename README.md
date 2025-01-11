@@ -1,19 +1,10 @@
-# Hello Everyone, My Name is Bagi
-Creator of Some Discord Bots and Other Stuff
+# Hi there, I'm Bagi
+Trying to become a game dev in the near future
 
-The Languages That I Currently Know is: Scratch, Python, Lua, HMTL/CSS, Go\
-The Languages That I Curently Learning: None\
-The Languagues That I Want to Learn: Javascript, C, C#, Java, Rust
-See Ya!
+### Tecnologies I have already worked with:
+[![Test](https://skillicons.dev/icons?i=html,css,python,lua,go)]()
 
-## Other Links:
-* [Discord](https://discord.com/users/851535306548969533)
-* [Youtube Channel](https://youtube.com/@thebagi)
-* [Instagram](https://instagram.com/dev_bagi763)
-* [Scratch Account](https://scratch.mit.edu/users/Rafael_Bagi123)
-* [Itch.io](https://bagi763.itch.io)
-* [Linktr.ee](https://linktr.ee/bagi763)
+### Try to contact me by my [LinkTree](https://linktr.ee/bagi763)
 
 ## Github Stats
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=bagi763&show_icons=true&theme=dark)](https://github.com/bagi763)\
-[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagi763&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Bagi763?tab=repositories)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=bagi763&show_icons=true&theme=dark)](https://github.com/bagi763)
